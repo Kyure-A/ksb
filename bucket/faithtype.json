@@ -9,7 +9,7 @@
             "url": "https://github.com/m13253/FaithType/releases/download/latest/FaithType.zip"
         }
     },
-    "bin": "faithtype.exe",
+    "bin": "Faithtype/faithtype.exe",
     "checkver": "github",
     "autoupdate": {
         "architecture": {
