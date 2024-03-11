@@ -11,6 +11,11 @@
     },
     "bin": "Faithtype/Auto-Patch-Then-Install.ps1",
     "checkver": "github",
+    "shortcuts": [
+        [
+            "faithtype-bin"
+        ]
+    ],
     "autoupdate": {
         "architecture": {
             "64bit": {
